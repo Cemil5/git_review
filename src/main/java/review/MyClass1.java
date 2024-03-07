@@ -9,9 +9,7 @@ public class MyClass1 {
         System.out.println("class1 modified");
         System.out.println("class1 modified");
         System.out.println("anil_modified");
+        System.out.println("new line");
         System.out.println("efe_update by anil");
-        System.out.println("irfan updated");
     }
-
-
 }
